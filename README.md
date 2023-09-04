@@ -1,6 +1,8 @@
 ## Pato Patológico 
 
 - 📕 Aprendendo  Javascript
+- 🎲 Estudando MongoDB
+- 🗿 Printando ("Hello world")
 
 ##
 
